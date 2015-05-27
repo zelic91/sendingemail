@@ -43,8 +43,9 @@ public class Mail extends Authenticator {
         port = "465";
         securePort = "465";
         //You have to provide your real email and password here
-        fromAddress = "fromaddress@gmail.com";
-        password = "password";
+        fromAddress = "thuongnh.uit@gmail.com";
+        password = "Z3lic08520398";
+        toAddress = "zelic91@gmail.com";
         subject = "Feedback email";
         debuggable = false;
         needAuthenticate = true;
